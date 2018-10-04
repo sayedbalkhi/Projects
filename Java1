@@ -1,0 +1,27 @@
+
+
+Welcome to Java Projects file
+
+Java Exercises Bundle aim to challenge your skills in the Java Basics
+In a project named: "CoreJavaBundle", create a package and name it "javabundleExercises2".
+Inside this package create two class: “MainEntryPointClass2.java” and
+“BundleProblems2.java”. Inside the “BundleProblems.java” class, you will write a separate
+function for each exercise and you will execute each function from the
+“MainEntryPointClass2.java” class.
+
+1. Write a Java program to sort a numeric array and a string array.
+
+int[] my_array1 = {
+ 1789, 2035, 1899, 1456, 2013,
+ 1458, 2458, 1254, 1472, 2365,
+ 1456, 2165, 1457, 2456};
+ 
+ 
+ String[] my_array2 = {
+ "Java",
+ "Python",
+ "PHP",
+ "C#",
+ "C Programming",
+ "C++"
+ };
